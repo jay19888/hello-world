@@ -1,2 +1,2 @@
-<h1> devops project </h1>
+<h1> devops </h1>
 
